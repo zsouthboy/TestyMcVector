@@ -5,4 +5,6 @@ A simple test of some vector math using Pygame.
 
 F toggles the arrow following. You can also click and hold the mouse button to have it follow your mouse.
 
+Use WASD to control the arrow directly.
+
 ESC or Q will quit.
